@@ -1,17 +1,17 @@
 # Hackerrank-Practice-w9
 
-/**Practice 1 **/
+/**Practice 1**/
 training: for in loop
 https://www.hackerrank.com/challenges/for-loop-in-c/problem
 
-/**Practice 2 acm-ipc-team **/
+/**Practice 2 acm-ipc-team**/
 https://www.hackerrank.com/challenges/acm-icpc-team/problem
 
-/**Practice 3 **/
+/**Practice 3**/
 training: bitwise operators in c
 https://www.hackerrank.com/challenges/bitwise-operators-in-c/problem
 
-/**Practice 4 **/
+/**Practice 4**/
 training: counting sort1
 https://www.hackerrank.com/challenges/countingsort1/problem
 
